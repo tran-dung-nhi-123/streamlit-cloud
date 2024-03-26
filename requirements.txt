@@ -1,5 +1,0 @@
-pickle
-streamlit
-load_iris
-RandomForestClassifier
-train_test_split
